@@ -4,7 +4,7 @@ An **AI-powered resume analysis tool** built using Python that extracts text fro
 
 ---
 
-## 🚀 Featuress
+# 🚀 Featuress
 
 ✅ Extracts text from resumes (`.pdf`, `.docx`)
 ✅ Analyzes resume content using AI/NLP techniques
